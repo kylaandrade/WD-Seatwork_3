@@ -10,11 +10,11 @@
   <h3 align="center">Headers and Footers</h3>
 </div>
 <div align="center">
-  This repository showcases a collection of 5 different static header styles, 5 different static footer styles, 5 different animated header styles, and 5 different animated footer styles, all created using pure HTML and CSS.
+  This repository showcases a collection of 5 different static header styles, 5 different static footer styles, 5 different animated header styles, and 5 different animated footer styles, all created using pure HTML and CSS. The project aims to provide a variety of header and footer designs that can be easily integrated into web development projects.
 </div>
 
 <br />
-https://visit-counter.vercel.app/counter.png?page=kylaandrade/WD-Seatwork_2
+https://visit-counter.vercel.app/counter.png?page=kylaandrade/WD-Seatwork_3
 
 ---
 
@@ -25,10 +25,10 @@ https://visit-counter.vercel.app/counter.png?page=kylaandrade/WD-Seatwork_2
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#overview">Features</a>
+      <a href="#overview">Overview</a>
       <ol>
         <li>
-          <a href="#key-components">Key Components</a>
+          <a href="#features">Features</a>
         </li>
         <li>
           <a href="#technology">Technology</a>
@@ -48,12 +48,17 @@ https://visit-counter.vercel.app/counter.png?page=kylaandrade/WD-Seatwork_2
 
 ## Overview
 
-The purpose of this project is to create a responsive and visually-appealing online resume using HTML, CSS, and JavaScript. By developing a custom resume website, I can showcase my skills, experience, and qualifications in a dynamic and interactive format.
+This project was created as a seatwork activity for a web development course, but it can be a useful resource for any developer looking to add eye-catching and functional header and footer elements to their website or web application.
 
-### Key Components
-- MultiPage Website
-- HTML Structure
-- CSS Styling
+Please do feel free to explore the code, fork the repository, and contribute your own header and footer designs to the collection!
+
+### Features
+- 5 static header styles
+- 5 static footer styles
+- 5 animated header styles
+- 5 animated footer styles
+- Pure HTML and CSS implementation
+- Easy to customize and integrate
 
 ### Technology
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
